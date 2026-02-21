@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "fact": "Bananas are technically berries.",
+    "description": "Botanically, a berry develops from a single ovary of a flower. Bananas qualify, but strawberries do not."
+  },
+  {
+    "id": 2,
+    "fact": "Octopuses have three hearts.",
+    "description": "Two hearts pump blood to the gills, while the third pumps it to the rest of the body."
+  },
+  {
+    "id": 3,
+    "fact": "Sharks existed before trees.",
+    "description": "Sharks have been around for over 400 million years. The first trees appeared around 350 million years ago."
+  },
+  {
+    "id": 4,
+    "fact": "Honey never spoils.",
+    "description": "Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible."
+  },
+  {
+    "id": 5,
+    "fact": "Wombats produce cube-shaped poop.",
+    "description": "Their unique intestinal elasticity shapes the feces into cubes, which prevents them from rolling away."
+  },
+  {
+    "id": 6,
+    "fact": "Sea otters hold hands while sleeping.",
+    "description": "They do this to avoid drifting away from each other while floating in the water."
+  },
+  {
+    "id": 7,
+    "fact": "Butterflies taste with their feet.",
+    "description": "They have taste sensors on their feet to help them identify suitable plants to lay eggs on."
+  },
+  {
+    "id": 8,
+    "fact": "A day on Venus is longer than a year on Venus.",
+    "description": "Venus takes longer to rotate once on its axis than it does to orbit the Sun."
+  },
+  {
+    "id": 9,
+    "fact": "Hot water can freeze faster than cold water.",
+    "description": "This phenomenon is called the Mpemba effect, and scientists are still studying why it happens."
+  },
+  {
+    "id": 10,
+    "fact": "Cows have best friends.",
+    "description": "Studies show cows become stressed when separated from their preferred companions."
+  },
+  {
+    "id": 11,
+    "fact": "Turtles can breathe through their butts.",
+    "description": "Some species perform cloacal respiration, absorbing oxygen through their rear ends underwater."
+  },
+  {
+    "id": 12,
+    "fact": "The Eiffel Tower grows taller in summer.",
+    "description": "Heat causes the iron structure to expand, making it up to 15 cm taller."
+  },
+  {
+    "id": 13,
+    "fact": "There are more trees on Earth than stars in the Milky Way.",
+    "description": "Scientists estimate around 3 trillion trees on Earth compared to 100–400 billion stars in our galaxy."
+  },
+  {
+    "id": 14,
+    "fact": "Sloths can hold their breath longer than dolphins.",
+    "description": "Sloths can slow their heart rate and hold their breath for up to 40 minutes."
+  },
+  {
+    "id": 15,
+    "fact": "A cloud can weigh over a million kilograms.",
+    "description": "Though they appear light, clouds are made of millions of water droplets."
+  },
+  {
+    "id": 16,
+    "fact": "The human body glows in the dark.",
+    "description": "Our bodies emit tiny amounts of visible light due to biochemical reactions, but it’s too faint for our eyes to detect."
+  },
+  {
+    "id": 17,
+    "fact": "Oxford University is older than the Aztec Empire.",
+    "description": "Teaching at Oxford began around 1096, while the Aztec Empire was founded in 1428."
+  },
+  {
+    "id": 18,
+    "fact": "Your stomach gets a new lining every few days.",
+    "description": "This prevents it from digesting itself with its strong acids."
+  },
+  {
+    "id": 19,
+    "fact": "There are more possible chess games than atoms in the observable universe.",
+    "description": "The number of possible chess games is estimated to be around 10^120."
+  },
+  {
+    "id": 20,
+    "fact": "Scotland has over 400 words for snow.",
+    "description": "The Scots language includes dozens of descriptive words for different types of snow."
+  },
+  {
+    "id": 21,
+    "fact": "The fingerprints of a koala are nearly identical to humans.",
+    "description": "They are so similar that they can sometimes confuse crime scene investigators."
+  },
+  {
+    "id": 22,
+    "fact": "You can’t hum while holding your nose.",
+    "description": "Humming requires airflow through your nasal passages, which is blocked when you pinch your nose."
+  },
+  {
+    "id": 23,
+    "fact": "The shortest war in history lasted 38 minutes.",
+    "description": "The Anglo-Zanzibar War in 1896 ended in under an hour."
+  },
+  {
+    "id": 24,
+    "fact": "A group of flamingos is called a flamboyance.",
+    "description": "The term reflects their bright pink color and dramatic appearance."
+  },
+  {
+    "id": 25,
+    "fact": "Your brain uses about 20% of your body's energy.",
+    "description": "Despite being only 2% of body weight, the brain is extremely energy-demanding."
+  },
+  {
+    "id": 26,
+    "fact": "Pineapples take about two years to grow.",
+    "description": "Each pineapple grows from a single flower and takes up to 24 months to mature."
+  },
+  {
+    "id": 27,
+    "fact": "There are more fake flamingos in the world than real ones.",
+    "description": "Plastic lawn flamingos once outnumbered the actual bird population."
+  },
+  {
+    "id": 28,
+    "fact": "The moon has moonquakes.",
+    "description": "Seismic activity on the moon can last for up to 10 minutes."
+  },
+  {
+    "id": 29,
+    "fact": "Some metals explode when they touch water.",
+    "description": "Alkali metals like sodium react violently with water."
+  },
+  {
+    "id": 30,
+    "fact": "An astronaut can grow taller in space.",
+    "description": "Without gravity compressing the spine, astronauts can grow up to 2 inches taller."
+  }
+]
